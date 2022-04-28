@@ -1,0 +1,2 @@
+# SierpinskiTriangle
+Sierpinski Triangle visualiser
