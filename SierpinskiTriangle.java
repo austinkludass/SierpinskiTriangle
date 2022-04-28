@@ -1,3 +1,5 @@
+// Software created by Austin Kludass, Sierpinski Triangle visualiser
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
